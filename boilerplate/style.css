@@ -1,0 +1,45 @@
+html,body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    color:rgb(121, 55, 55);
+
+}
+
+
+
+body{background-image: url(./images/gold\ experience\ theme.PNG);
+    background-repeat: repeat 
+}
+.intro,.outdoor,.game{
+   text-align: justify;
+    margin-left: 350px;
+    padding-left: 15px;
+    width: 600px;
+    height: 230px;
+    background-color: rgb(243, 181, 106);
+    box-shadow: -10px 10px 10px 5px;
+    border-radius: 10px;
+}
+.sport{
+    text-align: center;
+    border-radius: 50px;
+    margin: 50px;
+    padding: 5px;
+    width: 600px;
+    height: 200px;
+    background-color: rgb(243, 181, 106);
+    box-shadow: -10px 10px 19px 5px;
+    border-radius: 100px;
+}
+img{
+    border-radius: 70%;
+    size: 50%;
+}
+a{
+    width: 10px;
+    height 5px;
+    background:rgb(81, 81, 244) ;
+    border-radius: 10%;
+}
+
+@keyframes img 
